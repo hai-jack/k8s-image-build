@@ -1,1 +1,1 @@
-From circleci/mongo:4.4-focal-ram
+From corpusops/mongo:4
